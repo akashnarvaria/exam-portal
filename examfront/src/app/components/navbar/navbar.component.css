@@ -1,0 +1,11 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.brand{
+  font-size: large;
+}
+
+.mat-toolbar.mat-dodger {
+    background: dodgerblue;
+    color: #fff;
+}
